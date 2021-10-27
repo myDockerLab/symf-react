@@ -1,0 +1,4 @@
+172.23.0.1 - - [27/Oct/2021:11:32:54 +0000] "GET / HTTP/1.1" 200 497 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+172.23.0.1 - - [27/Oct/2021:11:32:54 +0000] "GET /favicon.ico HTTP/1.1" 200 497 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+172.23.0.1 - - [27/Oct/2021:11:53:10 +0000] "GET / HTTP/1.1" 404 32029 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
+172.23.0.1 - - [27/Oct/2021:11:53:10 +0000] "GET /favicon.ico HTTP/1.1" 404 175688 "http://localhost/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
